@@ -2,7 +2,7 @@ var weather;
 
 var api = 'http://api.openweathermap.org/data/2.5/weather?id=';
 //var id = '1268000'; //kanota
-var apiKey = '&appid=0ff9668b717de7d00b1b4494085127e2';
+var apiKey = '&appid= //type your own apiKey here';
 var unit = '&units=metric';
 
 function setup(){
